@@ -1,14 +1,14 @@
-- year: 2006-2017
-  logo: assets/images/facebook.png
-  url: http://facebook.com
-  desc: Facebook Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut commodi earum eligendi ipsum, laborum maiores mollitia.
+- year: May 2021 - Dec 2021
+  logo: assets/images/DxHub.png
+  url: https://dxhub.calpoly.edu/
+  desc: Worked as a backend software engineer developing code in Python and AWS for various projects.
 
-- year: 1998-2000
+- year: Sep 2020 - Dec 2020
   logo: assets/images/google.png
-  url: http://google.com
-  desc: Google Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut commodi earum eligendi ipsum, laborum maiores mollitia.
+  url: https://www.ifixit.com/
+  desc: Assisted on the development of a mock-ad server that served advertisements to users based on their browser's user agent.
 
-- year: 1999-2003
+- year: Jun 2020 - Sep 2020
   logo: assets/images/envato.png
-  url: http://envato.com
-  desc: Envato Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut commodi earum eligendi ipsum, laborum maiores mollitia.
+  url: https://www.agxcel.com/
+  desc: Updated UX/UI for GUI-based software on a raspberry pi using Python.
