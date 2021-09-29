@@ -1,12 +1,9 @@
 - title: Languages
   desc: Java, Python, Javascript/HTML/CSS, SQL, Bash
-  progress: 80%
 
-- title: Frameworks/Libraries
+- title: Frameworks &\n Libraries
   desc: React, Node.js, Django
-  progress: 75% 
 
 - title: Tools
   desc: Git, Linux, Docker, AWS (DynamoDB, EC2, Lambda, RDS, S3), JWT
-  progress: 90%
 
