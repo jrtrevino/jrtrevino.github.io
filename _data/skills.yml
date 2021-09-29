@@ -1,23 +1,12 @@
-- title: Adobe Photoshop
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 75%
+- title: Languages
+  desc: Java, Python, Javascript/HTML/CSS, SQL, Bash
+  progress: 80%
 
-- title: Web Design
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 68% 
+- title: Frameworks/Libraries
+  desc: React, Node.js, Django
+  progress: 75% 
 
-- title: Back-End Development
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+- title: Tools
+  desc: Git, Linux, Docker, AWS (DynamoDB, EC2, Lambda, RDS, S3), JWT
   progress: 90%
 
-- title: Javascript
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 55%
-
-- title: HTML5 And CSS3
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 88% 
-
-- title: Adobe Illustrator
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 20%
