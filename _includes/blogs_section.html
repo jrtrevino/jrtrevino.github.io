@@ -21,9 +21,6 @@
                         <p>{{ post.excerpt | strip_html | truncatewords: 18 }}</p>
                         <div class="clearfix">
                          <a href="#" data-toggle="modal" data-target="#blog_details-{{post.post_id}}" class="blog-details-btn btn btn-link float-left">read more <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                         <div class="post-share">
-                             {% include social_share.html %}
-                         </div>
                         </div>
 
                         <div class="modal fade" id="blog_details-{{post.post_id}}">
