@@ -16,7 +16,7 @@
                         <a href="#" data-toggle="modal" data-target="#blog_details-{{post.post_id}}"><img src="{{post.image | relative_url}}" alt="{{post.title}}"/></a>
                     </div>
                     <div class="single-blog-content">
-                        <a href="#" data-toggle="modal" data-target="#blog_details-{{post.post_id}}"></a>
+                        <a href="#" data-toggle="modal" data-target="#blog_details-{{post.post_id}}"><h5>{{post.title}}</h5></a>
                         <span>posted {{post.date | date_to_string}}</span>
                         <p>{{ post.excerpt | strip_html | truncatewords: 18 }}</p>
                         <div class="clearfix">
