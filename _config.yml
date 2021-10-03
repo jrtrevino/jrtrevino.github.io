@@ -11,11 +11,12 @@ title: Joey Trevino - Software Developer
 email: j.trevino95@icloud.com
 description: "Personal website for Joey Trevino"
 keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jrtrevino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  jrtrevino
+github_username: jrtrevino
 
-github_url: 'http://github.com/jrtrevino'
+github_url: "http://github.com/jrtrevino"
+twitter_url: "https://twitter.com/Evinreud"
 
 # Build settings
 markdown: kramdown
@@ -24,5 +25,3 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-seo-tag
-
- 

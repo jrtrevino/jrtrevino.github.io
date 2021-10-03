@@ -12,9 +12,6 @@
                 <div class="single-blog" id="macy-container">
                 {% for post in site.posts %}
                 <div class="single-blog-wrapper wow fadeIn text-left">
-                    <div class="single-blog-img">
-                        <a href="#" data-toggle="modal" data-target="#blog_details-{{post.post_id}}"><img src="{{post.image | relative_url}}" alt="{{post.title}}"/></a>
-                    </div>
                     <div class="single-blog-content">
                         <a href="#" data-toggle="modal" data-target="#blog_details-{{post.post_id}}"><h5>{{post.title}}</h5></a>
                         <span>posted {{post.date | date_to_string}}</span>
