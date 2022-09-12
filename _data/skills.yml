@@ -1,9 +1,9 @@
 - title: Languages
-  desc: Java, Python, Javascript/HTML/CSS, SQL, Bash
+  desc: C#, Java, Python, Javascript/HTML/CSS, SQL, Bash
 
 - title: Frameworks & Libraries
-  desc: React, Node.js, Django
+  desc: .NET, React, Node.js, Django
 
 - title: Tools
-  desc: Git, Linux, Docker, AWS (DynamoDB, EC2, Lambda, RDS, S3), JWT
+  desc: Git, Linux, Docker, AWS (DynamoDB, EC2, Lambda, RDS, S3, SNS, SQS), JWT
 
